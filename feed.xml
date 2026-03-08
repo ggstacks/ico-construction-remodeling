@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICO Construction & Remodeling - Bathroom Remodeling News</title>
+    <link>https://{username}.github.io/{repo}</link>
+    <description>Latest bathroom remodeling news and tips from ICO Construction & Remodeling in Plano, TX.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Mar 2026 17:02:08 GMT</lastBuildDate>
+    <atom:link href="https://{username}.github.io/{repo}/feed.xml" rel="self" type="application/rss+xml"/>
+    <managingEditor>info@icodfw.com (ICO Construction & Remodeling)</managingEditor>
+    <webMaster>info@icodfw.com (ICO Construction & Remodeling)</webMaster>
+    
+  </channel>
+</rss>
